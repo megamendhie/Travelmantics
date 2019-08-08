@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_margin_standard">16dp</dimen>
+    <dimen name="text_margin_large">24dp</dimen>
+    <dimen name="margin_medium">8dp</dimen>
+    <dimen name="crd_radius">4dp</dimen>
+</resources>
