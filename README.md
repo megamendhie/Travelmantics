@@ -6,4 +6,4 @@ The application makes use of:
 - Cloud Storage
 - Firebase authentiation
 
-Normal users can view beautifuk and lovely places they could travel to for vacation. Bt only admin can add, edot or delete a travel deal.
+Normal users can view beautiful and lovely places they could travel to for vacation. But only admin can add, edit or delete a travel deals.
